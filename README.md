@@ -144,4 +144,3 @@ Project Director & Lead Developer
 
 This project is open source and available under the MIT License.
 
-[Download README.md](path/to/readme.md)
