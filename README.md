@@ -138,7 +138,7 @@ Modify animation parameters in the CSS:
 **Ravi Sai Vigneswar**  
 Project Director & Lead Developer  
 - Email: vigneswar@netra2025.com  
-- LinkedIn: [linkedin.com/in/ravisaivigneswar](https://linkedin.com/in/ravisaivigneswar)
+- LinkedIn: [linkedin.com/in/ravisaivigneswar](https://in.linkedin.com/in/ravi-sai-vigneswara-113894191)
 
 ## License
 
