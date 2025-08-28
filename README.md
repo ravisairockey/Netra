@@ -6,7 +6,7 @@
 
 Netra (The Third Eye) is a conceptual visual representation of an upcoming revolutionary surveillance and identification system. This website showcases a futuristic vision of a globally interconnected camera network capable of real-time facial recognition and instant identification across worldwide systems.
 
-**Live Demo**: [Netra Concept Website](https://your-deployment-link.com)
+**Live Demo**: [Netra Concept Website]([https://your-deployment-link.com](https://ravisairockey.github.io/Netra/))
 
 ## ✨ Features
 
